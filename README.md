@@ -9,3 +9,22 @@
 각 1,2,3 주차 평점을 각 주의 1,2,3 주차 입장객의 수와 상관관계 분석.
 
 결과 : 각 주차 별 평점과 입장객수의 상관관계 및 긍정사전 부정사전 
+
+
+-편차-
+
+![편차](https://user-images.githubusercontent.com/31503178/64952409-391a0000-d8bb-11e9-8cb9-93383ce791bd.PNG)
+
+데이터간에 편차가 너무 커서 수치적으로 낮은 영화는 상관관계를 나타내는 부분에서 너무나도 낮은 가중치를 가짐.
+
+![전체](https://user-images.githubusercontent.com/31503178/64952430-4800b280-d8bb-11e9-9b89-7a74871389de.PNG)
+
+데이터간에 편차가 너무 커서 상관관계를 알아보기 힘듬
+
+![흥행](https://user-images.githubusercontent.com/31503178/64952399-328b8880-d8bb-11e9-82ae-88409e59cd34.PNG)
+
+흥행한 영화 집단의 상관관계를 보여주는 그래프
+
+![비흥행](https://user-images.githubusercontent.com/31503178/64952422-3fa87780-d8bb-11e9-809d-4115a6a2fd2c.PNG)
+
+흥행한 영화 집단의 상관관계를 보여주는 그래프
